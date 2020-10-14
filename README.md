@@ -1,2 +1,2 @@
-# project-khawla
-This repository contains the project we intend to undertake in the near future
+# DVD-Online-shopping-website
+A typical online store enables the customer to browse the firm's range of products and services, view photos or images of the products, along with information about the product specifications, features and prices. Online stores usually enable shoppers to use "search" features to find specific models, brands or items..based on that the target of our application is to shop DVDs by using a website that make it possible for the users to saw what is the available items and choosed based on the prices and for example to utilize what so called as discounts and offers on some items on buying electronically by using a bank card.
