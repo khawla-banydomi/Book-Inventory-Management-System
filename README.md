@@ -1,4 +1,6 @@
 # DVD-Online-shopping-website
+[! [ License: GPL v3 ] (https://www.apache.org/licenses/LICENSE-2.0)] (https://www.apache.org/licenses/) [! [ Language ] (https://angularjs.org/)] (https://www.java.com/) [! [ Framework ] (http://angular-ui.github.io/bootstrap] (http://ionicframework.com/)(http://mobileangularui.com/)
+
 A typical online store enables the customer to browse the firm's range of products and services, view photos or images of the products, along with information about the product specifications, features and prices. Online stores usually enable shoppers to use "search" features to find specific models, brands or items..based on that the target of our application is to shop DVDs by using a website that make it possible for the users to saw what is the available items and choosed based on the prices moreover it enables the customers to utilize what so called as discounts and offers on some items by using electronic payment and using a bank card.
 
 the website will be more/less simmillar to the foolowing:
