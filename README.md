@@ -12,14 +12,14 @@ https://images.template.net/wp-content/uploads/2016/07/26121721/Online-Shopping-
 however; instead of using general products we can use DVD since our website would be regarded the DVDs.
 
 The main objectives Generally for online shopping websites are the following:
-1.Reduce management costs.
-2.Developing business relations.
-3.Providing a unique customer experience.
-4.Increasing the number of loyal customers.
-5.Boosting the efficiency of services.
-6.Developing relevant target.
-7.Making responsive ecommerce.
-8.Increasing sales.
++ Reduce management costs.
++ Developing business relations.
++ Providing a unique customer experience.
++ Increasing the number of loyal customers.
++ Boosting the efficiency of services.
++ Developing relevant target.
++ Making responsive ecommerce.
++ Increasing sales.
 
 byond that there are several benefits since the website can be used as a marketing for the products.
 
