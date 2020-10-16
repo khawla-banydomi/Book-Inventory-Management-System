@@ -29,4 +29,6 @@ Byond that there are several benefits since the website can be used as a marketi
 
 *the best tool that can be used to develop the project is ANGULAR 8.0 + versions.
 
++ # The follwoing is the initial setup for github account since it is used to organise the milestones and submission for our project:
++ # [GITHUB ACCOUNT INITIAL CONFIGURATION](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/objectives-agenda-with-pictures.md)
 
