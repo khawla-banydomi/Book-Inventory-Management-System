@@ -19,7 +19,7 @@ There are  several advantages that can be gained by developing the inventory sts
 3. reduce headache: it is used instead of human memory so that it will reduce the load over the memory.
 
 
-*The best tool that can be used to develop the project is ANGULAR 8.0 + versions.
++ *The best tool that can be used to develop the book inventory (.js ).
 
 + The follwoing is the initial setup for github account since it is used to organise the milestones and submission for our project:
 + [GITHUB ACCOUNT INITIAL CONFIGURATION](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/objectives-agenda-with-pictures.md)
