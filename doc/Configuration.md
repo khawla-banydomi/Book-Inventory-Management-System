@@ -36,7 +36,6 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 # 4
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-46.png)
 # 5
-![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-59.png)
 # 6
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-18-34.png)
 # 7
